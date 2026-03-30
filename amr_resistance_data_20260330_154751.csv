@@ -1,0 +1,20 @@
+bacteria,antibiotic,resistance_pct,sample_size,location,date_recorded
+Staphylococcus aureus,Methicillin,85.0,1200,India,2024-01-15
+Escherichia coli,Ampicillin,82.0,2100,India,2024-01-10
+Klebsiella pneumoniae,Ciprofloxacin,78.0,900,India,2024-03-05
+Acinetobacter baumannii,Carbapenem,78.0,290,India,2024-01-30
+Escherichia coli,Tetracycline,75.0,1800,India,2024-02-28
+Staphylococcus aureus,Methicillin,72.0,980,USA,2024-02-20
+Pseudomonas aeruginosa,Ciprofloxacin,71.0,420,India,2024-03-20
+Escherichia coli,Ciprofloxacin,68.0,2100,India,2024-01-10
+Staphylococcus aureus,Ciprofloxacin,65.0,800,India,2024-03-10
+Pseudomonas aeruginosa,Carbapenem,52.0,380,India,2024-02-05
+Klebsiella pneumoniae,Carbapenem,45.0,650,India,2024-01-20
+Mycobacterium tuberculosis,Rifampicin,32.0,450,India,2024-01-25
+Klebsiella pneumoniae,Carbapenem,28.0,520,Europe,2024-02-15
+Escherichia coli,Carbapenem,22.0,1500,India,2024-03-15
+Klebsiella pneumoniae,Colistin,18.0,650,India,2024-01-20
+Mycobacterium tuberculosis,Rifampicin,18.0,320,Africa,2024-02-10
+Acinetobacter baumannii,Colistin,15.0,290,India,2024-01-30
+Staphylococcus aureus,Vancomycin,12.0,1200,India,2024-01-15
+Pseudomonas aeruginosa,Colistin,8.0,380,India,2024-02-05

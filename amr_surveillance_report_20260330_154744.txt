@@ -1,0 +1,50 @@
+=================================================================
+ANTIMICROBIAL RESISTANCE SURVEILLANCE REPORT
+Generated: 30-03-2026 15:47:44
+Author: Padma Shree | Phase 3 - Project 2
+=================================================================
+
+EXECUTIVE SUMMARY
+----------------------------------------
+Total resistance records  : 19
+Total patient cases       : 100
+Critical combinations (>50%): 10
+
+CRITICAL RESISTANCE ALERTS
+----------------------------------------
+  Staphylococcus aureus          + Methicillin    : 85.0% resistant
+  Escherichia coli               + Ampicillin     : 82.0% resistant
+  Klebsiella pneumoniae          + Ciprofloxacin  : 78.0% resistant
+  Acinetobacter baumannii        + Carbapenem     : 78.0% resistant
+  Escherichia coli               + Tetracycline   : 75.0% resistant
+  Staphylococcus aureus          + Methicillin    : 72.0% resistant
+  Pseudomonas aeruginosa         + Ciprofloxacin  : 71.0% resistant
+  Escherichia coli               + Ciprofloxacin  : 68.0% resistant
+  Staphylococcus aureus          + Ciprofloxacin  : 65.0% resistant
+  Pseudomonas aeruginosa         + Carbapenem     : 52.0% resistant
+
+TOP RESISTANT BACTERIA
+----------------------------------------
+  Escherichia coli                   : 61.8% avg resistance
+  Staphylococcus aureus              : 58.5% avg resistance
+  Acinetobacter baumannii            : 46.5% avg resistance
+  Pseudomonas aeruginosa             : 43.7% avg resistance
+  Klebsiella pneumoniae              : 42.2% avg resistance
+
+MOST COMPROMISED ANTIBIOTICS
+----------------------------------------
+  Ampicillin          : 82.0% avg resistance
+  Methicillin         : 78.5% avg resistance
+  Tetracycline        : 75.0% avg resistance
+  Ciprofloxacin       : 70.5% avg resistance
+  Carbapenem          : 45.0% avg resistance
+
+RECOMMENDATIONS
+----------------------------------------
+  1. Restrict use of Ciprofloxacin and Ampicillin
+  2. Increase surveillance for Carbapenem resistance
+  3. Implement antibiotic stewardship programs
+  4. Promote infection prevention measures
+  5. Invest in new antibiotic development
+
+=================================================================
